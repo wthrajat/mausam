@@ -1,9 +1,9 @@
 Mausam template: Basics weather app made in HCJ with React
  
 Installation:
- Make sure that Git or Git Desktop client is installed, if not then paste this in Powershellx86 if you're in Windows:
+ Make sure that Git is installed, if not then paste this in Powershellx86 if you're in Windows to install Git directly:
  ` winget install --id Git.Git -e --source winget `
-Also, same for Node.js, install it if it isn't already installed.
+Also, same for Node.js, install it if it isn't already installed, here (https://nodejs.org/en/download/).
 
 
 - `git clone https://github.com/parshuraam/mausam.git`
