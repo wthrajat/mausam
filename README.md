@@ -7,7 +7,7 @@ Also, same for Node.js, install it if it isn't already installed, here (https://
 
 
 - `git clone https://github.com/parshuraam/mausam.git`
-- `cd mausam`
+- `cd Mausam`
 - `npm install`
 - `npm start`
 
