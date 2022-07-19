@@ -1,4 +1,4 @@
-# Mausam template: Basic weather app made in HCJ with React
+# Mausam template: Basic weather app made using React.js
 
 - Make sure that Git is installed
   - (if not then paste this in shell/cmd if you're in Windows:)
@@ -11,5 +11,6 @@
 - [x] `npm install`
 - [x] `npm start`
 
-*Don't forget to allow location access tho
+*Don't forget to allow location access tho.
+
 *Click on ``Search`` button in the `Search by city` button and NOT the return key.
