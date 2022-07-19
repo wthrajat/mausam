@@ -1,14 +1,15 @@
-Mausam template: Basics weather app made in HCJ with React
- 
-Installation:
- Make sure that Git is installed, if not then paste this in Powershellx86 if you're in Windows to install Git directly:
+# Mausam template: Basic weather app made in HCJ with React
+
+- Make sure that Git is installed
+  - (if not then paste this in shell/cmd if you're in Windows:)
  ` winget install --id Git.Git -e --source winget `
-Also, same for Node.js, install it if it isn't already installed, here (https://nodejs.org/en/download/).
+ - Same for Node.js [here](https://nodejs.org/en/download/)
 
+## Trying it out:
+[] `git clone https://github.com/parshuraam/mausam.git`
+[] `cd Mausam`
+[] `npm install`
+[] `npm start`
 
-- `git clone https://github.com/parshuraam/mausam.git`
-- `cd Mausam`
-- `npm install`
-- `npm start`
-
-*Do not forget to allow location access!
+*Don't forget to allow location access tho
+*Click on ``Search`` button in the `Search by city` button and NOT the return key.
