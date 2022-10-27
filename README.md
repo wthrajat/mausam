@@ -17,4 +17,8 @@
 
 ### Also:
   - Allow location access to the browser
-  - Click on ``Search`` button in the `Search by city` button and NOT the return (enter) key.
+  - Click on ``Search`` button in the `Search by city` button and NOT the return (enter) key
+ 
+ 
+ ### Why
+  - Quick project made for a friend so do not laugh ;-)
